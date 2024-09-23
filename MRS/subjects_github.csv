@@ -1,0 +1,9 @@
+name,LOC,BOC,#mutants,#MRs,Functions
+Payroll,363,52,56,8,wage payment
+Auction,156,31,12,8,goods auction
+Ballot,248,22,50,7,voting
+Insurance,82,16,30,12,Purchase insurance
+SmartID,180,34,40,8,Identity management
+Cryptofin,348,58,68,18," Array processing"
+"SkinCoin ",225,66,55,12,Game skin trading
+Funding,428,55,80,16,Crowdfunding
